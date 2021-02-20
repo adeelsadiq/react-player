@@ -72,12 +72,12 @@ function chillHop() {
       active: false,
     },
     {
-      name: "Toofpick",
+      name: "Held Down",
       cover:
-        "https://chillhop.com/wp-content/uploads/2020/12/33a2a875828118a3ff260638a88362936104879a-1024x1024.jpg",
-      artist: "Blue Wednesday, Shopan",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=11227",
-      color: ["#585920", "#2ab3bf"],
+        "https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_960_720.jpg",
+      artist: "Shaolin Dub",
+      audio: "https://freemusicarchive.org/track/held-down/stream",
+      color: ["#c5ddaf", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
